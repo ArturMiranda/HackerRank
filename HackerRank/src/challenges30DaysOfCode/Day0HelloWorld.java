@@ -2,7 +2,7 @@ package challenges30DaysOfCode;
 
 import java.util.Scanner;
 
-public class HelloWorld {
+public class Day0HelloWorld {
 	public static void main(String[] args) {
         // Create a Scanner object to read input from stdin.
 		Scanner scan = new Scanner(System.in); 
