@@ -1,1 +1,5 @@
 /bin/
+/inputs/
+.classpath
+.projetct
+.settings
